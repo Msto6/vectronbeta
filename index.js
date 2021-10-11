@@ -337,6 +337,6 @@ bot.giveawaysManager.on("giveawayReactionRemoved", (giveaway, member, reaction) 
 
 
 
-  console.log("bot staryed ")
+  console.log("ODk2MDQwMzE3NTcxMTg2NzYw.YWBUkw.jzzLG85LmuaAgrqpTNdpA2-FIHc")
 
 bot.login(process.env.TOKEN);
