@@ -337,6 +337,6 @@ bot.giveawaysManager.on("giveawayReactionRemoved", (giveaway, member, reaction) 
 
 
 
-  console.log("bot staryed ")
+  console.log("GitHub - Khanmanan/vectronbeta")
 
 bot.login(process.env.TOKEN);
